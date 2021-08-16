@@ -1,8 +1,8 @@
 ### Hello! Welcome to my Github Profile! 👋
 
 - 🔭 I’m currently working on PHP Back-end Development
-- 🌱 I’m currently learning / studying Post Graduate on Data Science at Federal Technological University of Paraná
-- 📫 How to reach me: lucas.moreira15@fatec.sp.gov.br / nirvana.lucasmoreira@gmail.com
+- 🌱 I’m currently learning | studying Post Graduate on Data Science at Federal Technological University of Paraná
+- 📫 How to reach me: lucas.moreira15@fatec.sp.gov.br | nirvana.lucasmoreira@gmail.com
 
 ## Hello! I'm Lucas Moreira, nice to meet you! 
  <div>
