@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on PHP Back-end Development
 - 🌱 I’m currently learning | studying ReactJS and Java
 - 📫 How to reach me: lucas.moreira15@fatec.sp.gov.br | nirvana.lucasmoreira@gmail.com
-
-## Hello! I'm Lucas Moreira, nice to meet you! 
+- 
  <div>
   <a href="https://github.com/lucasm-moreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasm-moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
